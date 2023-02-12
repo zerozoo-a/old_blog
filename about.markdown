@@ -41,18 +41,3 @@ title: About
 
 
 별로 차린 것은 없지만 제 블로그에 방문해주셔서 감사합니다.
-<iframe src="https://media.tenor.com/pSuK_En8qoIAAAAC/jerry-thanks.gif" width="380" height="260" frameBorder="0" class=""></iframe><p>
-
-
-
-#### 도움이 되는 말
-
-파인만은 어떤 문제를 해결할 때 아래와 같이 문제를 접하고 푸는데 까지에 있어 순서를 정하고 각 순서를 실행하는 알고리즘을 만들었다. (이는 반은 유머이다.)
-
-
-![@ProfFeynman](https://pbs.twimg.com/media/E5WPQW9WEAACCax.jpg)
- i) write down the problem
-
- ii) think very hard 
-
- iii) write down the answer.
